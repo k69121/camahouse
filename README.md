@@ -1,5 +1,6 @@
 # camahouse
 
+##code
 ```
 import turtle
 import random
@@ -62,3 +63,5 @@ while True:
         if b == angle and b == a:
             t3.right(180)
 ```
+*italics*
+**bold**
